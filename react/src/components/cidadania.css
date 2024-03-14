@@ -1,0 +1,18 @@
+.cidadaniadiv{
+    background-image: url('../assets/menu.png');
+    height: 440px;
+    width: auto;
+}
+
+.imgtext {
+    color: white; 
+    text-align: center; 
+    z-index: 1; 
+    font-size: 55px;
+    font-weight: 400;
+    text-shadow: 
+        -1px -1px 0 #000,  
+         2px -1px 0 #000,
+        -1px  1px 0 #000,
+         2px  1px 0 #000;
+}

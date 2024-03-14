@@ -1,0 +1,16 @@
+.footer{
+    background-color:  #28A4E2;
+   display: flex;
+}
+.div-img{
+    display: flex;
+    margin-left: 55%;
+    gap: 10px;
+    margin-top: 20px;
+    width: 20px;
+}
+.div-loc{
+    gap: 30px;
+    display: flex;
+   margin-left:70px;
+}
